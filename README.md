@@ -33,6 +33,6 @@ The dataset includes detailed metrics per campaign, platform, city, device, and 
 - **Leverage Instagram's Profit Potential**: Implement customer segmentation strategies to better understand high-value Instagram users and enhance targeting.
 - **Optimize Ad Spend on Pinterest**: Given Pinterest’s efficiency in CPA, explore opportunities to scale efforts on this platform to maximize cost-effective conversions.
 
----
-https://github.com/user-attachments/assets/5a8f0556-e175-4426-83d0-fb0c06812f70
+## Demo
+https://github.com/user-attachments/assets/c5e5cb38-a16e-4f81-aeb4-a545f6b329aa
 
